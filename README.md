@@ -21,10 +21,11 @@ The NASA Website Clone is a front-end project that replicates the design and fun
 
 ### 📸 Screenshots
 
-- ![Homepage](https://github.com/yourusername/nasa-website-clone/blob/main/screenshots/homepage.png)
-- ![Mission Updates](https://github.com/yourusername/nasa-website-clone/blob/main/screenshots/mission-updates.png)
-- ![News Section](https://github.com/yourusername/nasa-website-clone/blob/main/screenshots/news-section.png)
-- ![Multimedia Gallery](https://github.com/yourusername/nasa-website-clone/blob/main/screenshots/gallery.png)
+- ![Homepage](https://github.com/5225prachi/NASA-CLONE/blob/main/homepage.png)
+- 
+- ![Mission Updates](https://github.com/5225prachi/NASA-CLONE/blob/main/mission.png)
+  
+- ![Multimedia Gallery](https://github.com/5225prachi/NASA-CLONE/blob/main/gallery.png)
 
 ### 🌍 Live Demo
 
